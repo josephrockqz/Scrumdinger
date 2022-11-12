@@ -1,9 +1,6 @@
-//
-//  ContentView.swift
-//  Scrumdinger
-//
-//  Created by Joseph Rock on 11/11/22.
-//
+/*
+See LICENSE folder for this sample’s licensing information.
+*/
 
 import SwiftUI
 
