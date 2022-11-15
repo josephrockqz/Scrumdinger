@@ -29,6 +29,7 @@
 		0BD2DCC82920434A0079157A /* AVPlayer+Ding.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0BD2DCC72920434A0079157A /* AVPlayer+Ding.swift */; };
 		0BD2DCCA292043510079157A /* ScrumTimer.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0BD2DCC9292043510079157A /* ScrumTimer.swift */; };
 		0BD2DCCC292043B30079157A /* ding.wav in Resources */ = {isa = PBXBuildFile; fileRef = 0BD2DCCB292043B30079157A /* ding.wav */; };
+		0BD2DCCE2923238A0079157A /* History.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0BD2DCCD2923238A0079157A /* History.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -74,6 +75,7 @@
 		0BD2DCC72920434A0079157A /* AVPlayer+Ding.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "AVPlayer+Ding.swift"; sourceTree = "<group>"; };
 		0BD2DCC9292043510079157A /* ScrumTimer.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ScrumTimer.swift; sourceTree = "<group>"; };
 		0BD2DCCB292043B30079157A /* ding.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = ding.wav; sourceTree = "<group>"; };
+		0BD2DCCD2923238A0079157A /* History.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = History.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -176,6 +178,7 @@
 				0B329B0F291EC28A00F1401A /* DailyScrum.swift */,
 				0BD2DCC9292043510079157A /* ScrumTimer.swift */,
 				0B329B0D291EC06100F1401A /* Theme.swift */,
+				0BD2DCCD2923238A0079157A /* History.swift */,
 			);
 			path = Models;
 			sourceTree = "<group>";
@@ -311,6 +314,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				0BD2DCCE2923238A0079157A /* History.swift in Sources */,
 				0B329B1E291F2AD700F1401A /* ThemePicker.swift in Sources */,
 				0B329B10291EC28A00F1401A /* DailyScrum.swift in Sources */,
 				0BD2DCC2292042EE0079157A /* ScrumProgressViewStyle.swift in Sources */,
